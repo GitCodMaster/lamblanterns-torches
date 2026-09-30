@@ -4,6 +4,10 @@
 [![CurseForge](https://cf.way2muchnoise.eu/full_1539815_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/lamb-lanterns)
 [![Minecraft](https://img.shields.io/modrinth/game-versions/lamb-lanterns?label=Minecraft)](https://modrinth.com/mod/lamb-lanterns)
 
+## What this fork adds:
+- Disable or enable lantern physics
+- Put torches into the lantern slot
+
 A NeoForge companion mod for [LambDynamicLights](https://lambdaurora.dev/projects/lambdynamiclights),
 Minecraft **1.21.1**. Wear a vanilla lantern (or soul lantern) in a Curios
 dedicated **lantern** slot — it hangs from the right hip (configurable), swings
